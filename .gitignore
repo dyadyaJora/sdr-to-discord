@@ -3,3 +3,7 @@ venv/
 .idea/
 
 poetry.lock
+
+*.wav
+
+*/**/__pycache__/

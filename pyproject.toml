@@ -8,6 +8,10 @@ authors = ["dyadyajora <ja_massa97@mail.ru>"]
 python = "^3.6"
 "discord.py" = {extras = ["voice"], version = "^1.7.3"}
 python-dotenv = "^0.19.2"
+pyrtlsdr = "^0.2.92"
+numpy = "1.19.5"
+scipy = "1.5.4"
+opuslib = "^3.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
